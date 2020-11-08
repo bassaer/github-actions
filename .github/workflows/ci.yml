@@ -13,4 +13,4 @@ jobs:
       - name: hello
         run: echo Hello, world
       - name: run script
-      - run: node -p '1 + 2'
+        run: node -p '1 + 2'
